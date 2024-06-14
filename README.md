@@ -15,6 +15,6 @@ dataset = load_dataset("NOTKNOWN/FAData")
 ```
 ## Assigning Visual Persona to LLMs
 
-- `study1_GPT4o.ipynb` and `study1_Claude3_haiku.ipynb`: These notebooks involve assigning a visual persona to the LLM, followed by participation in a four-round ultimatum game with a confederate who exhibits fixed behavior.
+- `study1_GPT4o.ipynb` and `study1_Claude3_haiku.ipynb`: These notebooks involve assigning a visual persona to the LLM, followed by a participation in a four-round ultimatum game with a confederate who exhibits fixed behavior.
 
-- `study2_GPT4o.ipynb` and `study2_Claude3_haiku.ipynb`: These notebooks involve assigning a visual persona to each LLM, followed by participation in a four-round ultimatum game between two LLMs.
+- `study2_GPT4o.ipynb` and `study2_Claude3_haiku.ipynb`: These notebooks involve assigning a visual persona to each LLM, followed by a participation in a four-round ultimatum game between two LLMs.
