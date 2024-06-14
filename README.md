@@ -1,4 +1,4 @@
-# LLM_visual_persona
+# Kiss Up, Kick Down: Exploring Behavioral Changes in Multi-modal Large Language Models with Assigned Visual Personas
 
 ### Visual Persona for LLM Experiments
 
